@@ -19,8 +19,8 @@ This work systematically evaluates **six color spaces** across **two image domai
 ## Experimental Setup
 
 ### Datasets
-- **CIFAR-10** — natural images
-- **ISBI 2018** — dermoscopic medical images
+- natural images
+- dermoscopic medical images
 
 ### Color Spaces
 - RGB  
